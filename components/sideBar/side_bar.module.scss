@@ -1,0 +1,22 @@
+.side_bar_wrapper{
+    background-color: white;
+    height: 100vh;
+    border-right: 1px solid #E8EAF2;
+    padding: 40px 19px;
+    width: 232px;
+    div{
+        display: flex;
+        align-items: flex-start;
+        gap: 10px;
+        margin-bottom: 40px;
+        p{
+            font-size: 15px;
+            font-weight: 500;
+            line-height: 22.5px;
+            color: #666666;
+        }
+        .focus{
+            color: #23A455;
+        }
+    }
+}
